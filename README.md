@@ -30,26 +30,6 @@
 
 ---
 
-# 📸 项目截图
-
-## 登录页
-
-![后台登录](../README-assets/admin-login.png)
-
----
-
-## 数据统计
-
-![数据统计](../README-assets/admin-dashboard.png)
-
----
-
-## 预约管理
-
-![预约管理](../README-assets/admin-appointment.png)
-
----
-
 # 📦 项目启动
 
 ## 安装依赖
